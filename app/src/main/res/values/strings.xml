@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Super Mario</string>
+    <string name="retryicon">retryicon</string>
+    <string name="retry">Retry</string>
+</resources>
